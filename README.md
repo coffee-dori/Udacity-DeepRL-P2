@@ -44,6 +44,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
+0. Download the dependencies to set up the python environment. (https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
 
     - **_Version 1: One (1) Agent_**
